@@ -13,3 +13,5 @@ This unique and captivating puzzle game is all about rearranging images to unloc
 3. Enhanced Cognitive Skills: As you play, you'll improve your spatial awareness, pattern recognition, and problem-solving abilities. These skills can be applied to various aspects of your life, from work to daily decision-making.
 
 4. Relaxing Gameplay: Take a break from your busy day and dive into the soothing world of our puzzle game. The mesmerizing images and tranquil music make it a perfect way to unwind.
+
+
