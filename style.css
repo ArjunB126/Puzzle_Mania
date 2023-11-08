@@ -96,3 +96,15 @@ body{
              
                 margin:auto;
             }
+            .buttonGroup>button{
+                padding:5px 20px;
+                border-radius:20px;
+                margin:10px;
+                font-size: 1.1em;
+                background-color: #40916c;
+                font-weight: bolder;
+                color:white;
+                font-family: 'Bruno Ace';
+            
+                cursor:pointer;
+            }
